@@ -1,4 +1,4 @@
-# Project 1
+# Project 0
 
 CSE 224 Spring 2024 Project 0 Starter Code
 
@@ -18,7 +18,7 @@ then the second-smallest, etc.
 
 To aid you in generating input files and validating the output of your program,
 we’ve provided you with a few utilities in binary format. Currently there are
-utilities for x86_64-based Linux and the Intel- and Apple M1 mac.
+utilities for x86_64-based Linux and the Intel and Apple M1/M2 macs.
 
 ### Gensort
 
