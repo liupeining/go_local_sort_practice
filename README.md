@@ -18,7 +18,7 @@ then the second-smallest, etc.
 
 To aid you in generating input files and validating the output of your program,
 we’ve provided you with a few utilities in binary format. Currently there are
-utilities for x86_64-based Linux and the Intel and Apple M1/M2 macs.
+utilities for x86_64-based Windows, Linux, and Intel and Apple M1/M2 macs.
 
 ### Gensort
 
