@@ -33,9 +33,7 @@ for 256 kilobytes, etc.
 If the specified size is not a multiple of 100 bytes, the requested
 size will be rounded up to the next multiple of 100.
 
-Usage: utils/{os_architecture}/bin/gensort outputfile size
-  -randseed int
-    	Random seed
+Usage: utils/{os_architecture}/bin/gensort [-randseed seed] outputfile size
 
 ### Showsort
 
